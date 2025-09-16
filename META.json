@@ -1,0 +1,62 @@
+{
+  "category": "dhcp-servers",
+  "created_date": "2025-09-15T22:48:57.812384",
+  "default_ports": [
+    67,
+    68,
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "isc-dhcp is a free and open-source DHCP server and client. ISC DHCP provides robust DHCP services for automatic network configuration, the reference implementation of DHCP",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/dhcp-servers/isc-dhcp-server",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/dhcp-servers/isc-dhcp-server",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.812406",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "isc-dhcp-server",
+  "repository_url": "https://github.com/howtomgr/isc-dhcp-server",
+  "spec_version": "2.0",
+  "subcategory": "dhcp-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "dhcp-servers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "isc-dhcp Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/dhcp-servers/isc-dhcp-server"
+}
